@@ -1,0 +1,1 @@
+If building locally, make sure Android SDK and a suitable JDK are installed. Use `flutter doctor` to check requirements.

@@ -1,0 +1,16 @@
+name: simple_music_player
+description: A minimal offline music player
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  just_audio: ^0.9.36
+  file_picker: ^5.2.5
+
+flutter:
+  uses-material-design: true
